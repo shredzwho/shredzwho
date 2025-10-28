@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Shreyas
+**A passionate Cloud Engineer || Dev Ops Engineer || Tech Savy**
+
+Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** my portfolio
+- 🌱 **I’m currently learning:** new things everyday in this tech world
+- 👯 **I’m looking to collaborate on:** any project you would recommend
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** shreyytpvt14@gmail.com
+- 😄 **Pronouns:** he/him
+- ⚡ **Fun fact:** I Love Tech and Tech Loves me
+
 # 💫 About Me:
 Passionate Computer Science student at Jain University, Bangalore. Focused on learning, creating impactful projects, and contributing to open-source development.
 
