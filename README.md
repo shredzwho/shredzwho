@@ -11,8 +11,15 @@ Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Loves me
 
+
 # 💫 About Me:
 Passionate Computer Science student at Jain University, Bangalore. Focused on learning, creating impactful projects, and contributing to open-source development.
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
