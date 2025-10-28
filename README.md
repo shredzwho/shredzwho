@@ -1,5 +1,4 @@
 # 💫 Hi 👋, I'm Shreyas
-**A passionate Cloud Engineer || Dev Ops Engineer || Tech Savy**
 
 Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
