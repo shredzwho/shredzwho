@@ -1,13 +1,13 @@
-# 💫 Hi 👋, I'm Aavya
+# 💫 Hi 👋, I'm Shreyas
 
-Email Me 👉 ✉️ **aavyatrivedi3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** my portfolio
 - 🌱 **I’m currently learning:** new things everyday in this tech world
 - 👯 **I’m looking to collaborate on:** any project you would recommend
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** aavyatrivedi3@gmail.com
-- 😄 **Pronouns:** she/her
+- 📫 **How to reach me:** shreyytpvt14@gmail.com
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Loves me
 
 
