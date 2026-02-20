@@ -2,7 +2,7 @@
 
 Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** My C++ Skills
+- 🔭 **I’m currently working on:** My C++/python Skills
 - 🌱 **I’m currently learning:** new things everyday in this tech world
 - 👯 **I’m looking to collaborate on:** any project you would recommend
 - 💬 **Ask me about:** Collaboration, Tech Support
