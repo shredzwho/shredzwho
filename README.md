@@ -95,11 +95,23 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=default&count_private=true&cache_seconds=1800&bg_color=ffffff&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dark&count_private=true&cache_seconds=1800&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  </picture>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dark&cache_seconds=1800&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=default&cache_seconds=1800&bg_color=ffffff&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dark&cache_seconds=1800&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+  </picture>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dracula" alt="Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dark&bg_color=0d1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=default&bg_color=ffffff&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dark&bg_color=0d1117&hide_border=true" alt="Streak Stats" />
+  </picture>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=github-compact&bg_color=0d1117&color=f0f6fc&line=f1fa8c&point=bd93f9&hide_border=true">
@@ -113,7 +125,11 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dracula&no-frame=false&margin-w=4" alt="Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dark&no-frame=true&margin-w=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=flat&no-frame=true&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dark&no-frame=true&margin-w=4" alt="Trophies" />
+  </picture>
 </div>
 
   
