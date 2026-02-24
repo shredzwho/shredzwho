@@ -1,5 +1,5 @@
 
-# 💫 Hi 👋, I'm Shredzwho
+# 💫 Hi 👋, I'm Shreyas
 Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 💫 About Me:
