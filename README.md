@@ -95,33 +95,21 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=dracula" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dracula" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dracula&cache_seconds=1800" alt="Top Languages" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dracula" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=dracula&bg_color=282a36&color=ff79c6&line=f1fa8c&point=bd93f9&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
   
 
 ### 🏆 GitHub Trophies
 
-<div  align="center">
-
-<img  src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dracula&no-frame=false&margin-w=4"  alt="Trophies"  />
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dracula&no-frame=false&margin-w=4" alt="Trophies" />
 </div>
 
   
@@ -132,23 +120,21 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 
 ## 🤝 Let's Connect!
 
-<div  align="center">
-
-<a  href="https://linkedin.com/in/shredzwho">
-  <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  />
-</a>
-<a  href="https://instagram.com/shredzwho">
-  <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"  />
-</a>
-<a  href="mailto:shreyytpvt14@gmail.com">
-  <img  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Email"  />
-</a>
-
+<div align="center">
+  <a href="https://linkedin.com/in/shredzwho">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/shredzwho">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:shreyytpvt14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
   
 
-<p  align="center">
+<p align="center">
   <br/>
-  <img  src="https://visitcount.itsvg.in/api?id=shredzwho&icon=0&color=0"  alt="Visitor Count"  />
+  <img src="https://visitcount.itsvg.in/api?id=shredzwho&icon=0&color=0" alt="Visitor Count" />
 </p>
