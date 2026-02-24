@@ -101,7 +101,11 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dracula" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=dracula&bg_color=282a36&color=ff79c6&line=f1fa8c&point=bd93f9&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=github-compact&bg_color=0d1117&color=f0f6fc&line=f1fa8c&point=bd93f9&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=github-compact&bg_color=ffffff&color=1f2328&line=0366d6&point=24292e&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=github-compact&bg_color=0d1117&color=f0f6fc&line=f1fa8c&point=bd93f9&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </picture>
 </div>
 
   
