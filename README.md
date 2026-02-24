@@ -94,16 +94,24 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 
 ## 📊 GitHub Stats
 
-<div  align="center">
-
-<img  src="https://github-readme-stats.vercel.app/api?username=shredzwho&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  alt="GitHub Stats"  />
-
-<img  src="https://nirzak-streak-stats.vercel.app/?user=shredzwho&theme=dark&hide_border=false"  alt="Streak Stats"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shredzwho&theme=dracula" width="100%" alt="GitHub Activity Graph" />
+</div>
 
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  alt="Top Languages"  />
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shredzwho&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shredzwho&layout=compact&theme=dracula" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shredzwho&theme=dracula" alt="Streak Stats" />
 </div>
 
   
@@ -112,7 +120,7 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 
 <div  align="center">
 
-<img  src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=radical&no-frame=false&no-bg=true&margin-w=4"  alt="Trophies"  />
+<img  src="https://github-profile-trophy.vercel.app/?username=shredzwho&theme=dracula&no-frame=false&margin-w=4"  alt="Trophies"  />
 
 </div>
 
@@ -122,26 +130,18 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
 
   
 
-## �Let's Connect!
+## 🤝 Let's Connect!
 
 <div  align="center">
 
 <a  href="https://linkedin.com/in/shredzwho">
-
-<img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  />
-
+  <img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  />
 </a>
-
 <a  href="https://instagram.com/shredzwho">
-
-<img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"  />
-
+  <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="Instagram"  />
 </a>
-
 <a  href="mailto:shreyytpvt14@gmail.com">
-
-<img  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Email"  />
-
+  <img  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Email"  />
 </a>
 
 </div>
@@ -149,7 +149,6 @@ Passionate Computer Science student at Jain University, Bangalore. Focused on le
   
 
 <p  align="center">
-
-<img  src="https://visitcount.itsvg.in/api?id=shredzwho&icon=0&color=0"  alt="Visitor Count"  />
-
+  <br/>
+  <img  src="https://visitcount.itsvg.in/api?id=shredzwho&icon=0&color=0"  alt="Visitor Count"  />
 </p>
