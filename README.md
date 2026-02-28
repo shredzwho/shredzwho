@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Sponsor_Me-%23EA4AAA.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me" />
   </a>
   <a href="mailto:shreyytpvt14@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
