@@ -1,18 +1,18 @@
-<h1 align="center">💫 Hi 👋, I'm Shreyas</h1>
-<h3 align="center">Passionate Computer Science student | Developer | Open Source Contributor</h3>
+<h1 align="left">💫 Hi 👋, I'm Shreyas</h1>
+<h3 align="left">Passionate Computer Science student | Developer | Open Source Contributor</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/sponsors/shredzwho">
     <img src="https://img.shields.io/badge/Sponsor_Me-%23EA4AAA.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me" />
   </a>
   <a href="mailto:shreyytpvt14@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## �‍♂️ About Me
+## About Me
 
 <p align="left">
 I'm a Computer Science student at Jain University, Bangalore, deeply focused on learning, creating impactful projects, and contributing to open-source development. I love building tools that solve real-world problems and exploring the depths of cybersecurity, networking, and cloud architectures.
@@ -37,7 +37,7 @@ If you find my projects like **IG-Detective** or my open-source contributions he
 
 <div align="center">
   <a href="https://github.com/sponsors/shredzwho">
-    <img src="https://img.shields.io/badge/💖_Sponsor_Shreyas_on_GitHub-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor shredzwho" />
+    <img src="https://img.shields.io/badge/💖_Sponsor_Shredzwho_on_GitHub-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor shredzwho" />
   </a>
 </div>
 
