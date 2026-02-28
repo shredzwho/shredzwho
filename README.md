@@ -1,7 +1,7 @@
 
 # 💫 Hi 👋, I'm Shreyas
-**Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else 😊😊
-**Sponsor me 👉 https://github.com/sponsors/shredzwho
+Email Me 👉 ✉️ **shreyytpvt14@gmail.com** For Collaboration/Project or Anything Else 😊😊
+Sponsor me 👉 https://github.com/sponsors/shredzwho
 
 # 💫 About Me:
 
