@@ -2,7 +2,9 @@
 <h3 align="left">Passionate Computer Science student | Developer | Open Source Contributor</h3>
 
 <p align="left">
-  <iframe src="https://github.com/sponsors/shredzwho/button" title="Sponsor shredzwho" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  <a href="https://github.com/sponsors/shredzwho">
+    <img src="https://img.shields.io/badge/Sponsor_Me-%23EA4AAA.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me" />
+  </a>
   <a href="mailto:shreyytpvt14@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
