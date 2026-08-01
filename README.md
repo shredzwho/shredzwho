@@ -18,7 +18,7 @@
 I'm a Computer Science student at Jain University, Bangalore, deeply focused on learning, creating impactful projects, and contributing to open-source development. I love building tools that solve real-world problems and exploring the depths of cybersecurity, networking, and cloud architectures.
 </p>
 
-- 🔭 **Currently working on:** Refined C++/Python Skills & AI/ML Projects
+- 🔭 **Currently working on:** Advanced MLOps/RAG AI Agentic Automation
 - 🌱 **Currently learning:** Advanced Cloud Architectures & DevOps
 - 👯 **Looking to collaborate on:** Open Source Security Tools
 - 💬 **Ask me about:** Tech Support, Collaboration, & Web3
